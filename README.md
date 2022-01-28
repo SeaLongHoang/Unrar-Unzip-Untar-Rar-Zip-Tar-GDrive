@@ -1,6 +1,6 @@
-# compress-decompress-in-Google-Drive
-This is a Google Colab notebook for compressing/decompressing files/folders in Google Drive
-<br><br><b>Usage:</b>
+# NÉN-GIẢI NÉN-file-Google-Drive
+Đây là sổ tay Google Colab để nén / giải nén tệp / thư mục trong Google Drive
+<br><br><b>Cách dùng:</b>
 <br>
-<a href="https://colab.research.google.com/drive/1CU57kHDHKB8i2UGZRTz3QeygM8B_ZQbG#scrollTo=mUnldBYjp-sa" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-1. Click on the "Open in Colab" button and press ctrl+f9
+<a href="https://colab.research.google.com/drive/1CU57kHDHKB8i2UGZRTz3QeygM8B_ZQbG#scrollTo=mUnldBYjp-sa" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Mở trong Colab"/></a>
+1. Nhấn nút "Mở trong Colab" và bấm ctrl+f9
